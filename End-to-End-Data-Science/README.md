@@ -1,4 +1,4 @@
-# GLOBAL AI SUMMER CAMP'22
+# GLOBAL AI HUB: AI SUMMER CAMP'22
 
 ## Project 1 : End to End Data Science
 
